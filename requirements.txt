@@ -1,0 +1,5 @@
+# Core dependencies
+giskard[llm]==2.18.0
+pandas==2.2.3
+openai==1.45.1
+python-dotenv==1.2.1
